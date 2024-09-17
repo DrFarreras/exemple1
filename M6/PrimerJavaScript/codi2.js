@@ -1,0 +1,1 @@
+alert("Hola, soc el segon script");
